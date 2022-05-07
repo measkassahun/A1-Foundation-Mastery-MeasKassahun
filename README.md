@@ -6,7 +6,8 @@
 3. [The GLSEN Day is a student led protest where LGBTQ students around the world rally against the harmful effects of harassment and discrimination of LBGTQ people, by taking a vow of silence](https://www.glsen.org/day-of-silence)
 # Accompanying Image
 <img width="626" alt="Screen Shot 2022-05-06 at 6 43 09 PM" src="https://user-images.githubusercontent.com/104712405/167235543-cdfb623f-6878-4da1-862e-1b45d9c8b249.png">
-**This image is from a _BLM protest_ in 2020-2022, I choose this oicture because I think the words are _powerful_ in making us one, and its important to understand that we are more alike than different, helping one means helping many.**
+
+**This image is from a _BLM protest_ in 2020-2022, I choose this picture because I think the words are _powerful_ in making us one, and its important to understand that we are more alike than different, helping one means helping many.**
 
 # Analysis
 1. What does the difference between the mean and the median tell you about the distribution of the data?
