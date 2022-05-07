@@ -5,6 +5,8 @@
 2. [Police officers trapped(kettled) and assaulted many protesters during a peaceful protest against police brutality](https://www.hrw.org/report/2020/09/30/kettling-protesters-bronx/systemic-police-brutality-and-its-costs-united-states#)
 3. [The GLSEN Day is a student led protest where LGBTQ students around the world rally against the harmful effects of harassment and discrimination of LBGTQ people, by taking a vow of silence](https://www.glsen.org/day-of-silence)
 # Accompanying Image
+![Uploading Screen Shot 2022-05-06 at 6.43.09 PM.png…]()
+
 
 # Analysis
 1. What does the difference between the mean and the median tell you about the distribution of the data?
